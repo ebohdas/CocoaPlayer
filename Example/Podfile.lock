@@ -1,0 +1,17 @@
+PODS:
+  - CocoaPlayer (0.1.0):
+    - GoogleAds-IMA-iOS-SDK (~> 3.0.beta.16)
+  - GoogleAds-IMA-iOS-SDK (3.0.beta.16)
+
+DEPENDENCIES:
+  - CocoaPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaPlayer: 20b5ba15df5a22bd2666e75bf1e5720ecf14d3e6
+  GoogleAds-IMA-iOS-SDK: c7e2d2c85a020096d8ef814bdd7ca2a0c102fc66
+
+COCOAPODS: 0.38.2
